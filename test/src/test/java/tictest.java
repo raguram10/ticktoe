@@ -11,7 +11,7 @@ public class tictest {
         //tick.move(1,0,1);
         //tick.move(-1,0,2);
         //tick.move(1,1,0);
-        //tick.move(-1,2,0);
+       
         Assert.assertEquals(3,tick.getWinner());
 
     }
